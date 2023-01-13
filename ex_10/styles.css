@@ -1,0 +1,20 @@
+form {
+    display: flex;
+    justify-content: center;
+    margin-left: 460px;
+    flex-direction: column;
+    color: darkred;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Roboto';
+    width: 200px;
+    background: yellow;
+}
+.button {
+    color: yellow;
+    background: darkred;
+
+}
+p {
+    text-align: center;
+}
